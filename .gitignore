@@ -4,4 +4,5 @@ __pycache__/
 out/
 pretrained_model/
 datasets/
+training-run/
 
